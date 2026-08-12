@@ -18,3 +18,7 @@ Make the script executable:
 
 ```bash
 chmod +x network_info.sh
+
+## Notes
+
+The output may vary depending on the system's network configuration and the services currently running.
